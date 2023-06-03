@@ -1,0 +1,342 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+    gap: 1rem;
+    padding: 20px;
+    justify-content: center;
+  
+}
+.header.imt{
+    float: left;
+    gap: 10rem;
+    background-color: aqua;
+}
+.header shopping-cart{
+    display: flex;  
+    align-items: center;
+    font-size: 2rem;
+}
+.shopping-cart a{
+    color: black;
+    text-decoration: none;
+    position: relative;
+    padding: 1.5rem 1rem;
+}
+
+
+.main{
+    display: flex;
+    justify-content: center;
+}
+.banner{
+    min-height: 450px;
+    min-width: 95%;
+    background-image: url('file:///D:/bt19-bootstrap/bt19-bootstrap/images/bg-1.jpg');
+    background-position: 50cm;
+}
+.banner img{
+   position: absolute;
+   right: 50px;
+
+}
+.b{
+    position: absolute;
+    top: 200px;
+    right: 22.8cm;
+    font-size: 13px;
+}
+.C{
+    display: flex;
+    position: absolute;
+    top: 330px;
+    right: 23cm;
+    font-size: 10px;
+    background-color: #FF3300;
+    height: 30px;
+    width: 130PX;
+    justify-content: center;
+    border-radius: 3px;
+    padding: 0.5rem;
+    color: #FFF;
+}
+.banner h1{
+    position: absolute;
+    top: 220px;
+    right: 21.5cm;
+    
+}
+.banner h2{
+    position: absolute;
+    top: 260px;
+    right: 22.5cm;
+    font-size: 30px;
+    
+}
+.abc{
+    text-align: center;
+    padding: 2rem;
+}
+.nav{
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 1rem;
+}
+.aside{
+    padding: 1rem;
+}
+.banner1{
+    display: flex;
+    justify-content: center;
+    gap: 15.5rem;
+}
+.banner0{
+    display: flex;
+    justify-content: center;
+    gap: 15rem;
+    color: red;
+}
+.banner2{
+    display: flex;
+    justify-content: center;
+    gap: 17.1rem;
+   
+}
+.main2{
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+.banner3{
+    min-height: 450px;
+    min-width: 95%;
+    background-color: #DCDCDC;
+    background-position: 50cm;
+}
+.banner3 img{
+    position: absolute;
+    right: 50px;
+}
+.banner3 h1{
+    position: absolute;
+    top: 1300px;
+    right: 22.8cm;
+    font-size: 40px;
+}
+.banner3 h2{
+    position: absolute;
+    top: 1350px;
+    right: 20cm;
+    font-size: 30px;
+    font-style:unset;
+}
+.D{
+    display: flex;
+    position: absolute;
+    top: 1450px;
+    right: 23.5cm;
+    font-size: 10px;
+    background-color: #FF3300;
+    height: 30px;
+    width: 130PX;
+    justify-content: center;
+    border-radius: 3px;
+    padding: 0.5rem;
+    color: #FFF;
+}
+.abcd{
+    text-align: center;
+    padding: 1rem;
+}
+.nav2{
+    display: flex;
+    justify-content: center;
+    gap: 1cm;
+    padding: 1rem;
+}
+.banner4{
+    display: flex;
+    justify-content: center;
+    gap: 15rem;
+}
+.banner7{
+    display: flex;
+    justify-content: center;
+    gap: 14.5rem;
+    color: red;
+}
+.banner5{
+    display: flex;
+    justify-content: center;
+    gap: 16.5rem;
+}
+.header2{
+    display:flex ;
+    justify-content:center;
+    gap: 2rem;
+    padding: 1rem;
+}
+.item1{
+    text-align: center;
+    border: #DCDCDC;
+    border-style: solid;
+    border-width: 2px;
+    height: 110px;
+    width: 190px;
+    border-radius: 5px;
+    padding: 0.5rem;
+}
+.item2{
+    text-align: center;
+    border: #DCDCDC;
+    border-style: solid;
+    border-width: 2px;
+    height: 110px;
+    width: 190px;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+.item3{
+    text-align: center;
+    border: #DCDCDC;
+    border-style: solid;
+    border-width: 2px;
+    height: 110px;
+    width: 190px;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+.item4{
+    text-align: center;
+    border: #DCDCDC;
+    border-style: solid;
+    border-width: 2px;
+    height: 110px;
+    width: 190px;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+.a{
+    text-align: center;
+    padding: 2cm;
+}
+.nav3{
+    display: flex;
+    justify-content: center;
+    gap: 1cm;
+}
+.aside2{
+    padding: 1rem;
+
+}
+.banner8{
+    display: flex;
+    justify-content: center;
+    gap: 4.5cm;
+}
+.banner9{
+    display: flex;
+    justify-content: center;
+    gap: 4.3cm;
+    color: red;
+}
+.banner10{
+    display: flex;
+    justify-content: center;
+    gap: 5.1cm;
+}
+.nav4{
+    display: flex;
+    justify-content: center;
+    gap: 1cm;
+}
+.aside3{
+    padding: 1rem;
+}
+.banner11{
+    display: flex;
+    justify-content: center;
+    gap:4.5cm ;
+}
+.banner12{
+    display: flex;
+    justify-content: center;
+    gap: 4.3cm;
+    color: red;
+}
+.banner13{
+    display: flex;
+    justify-content: center;
+    gap: 5.1cm;
+}
+.V{
+    display: flex;
+    justify-content: center;
+    padding: 2cm;
+}
+.main4{
+    display: flex;
+    justify-content: center;
+    gap: 1cm;
+   
+}
+.aside4{
+    display: flex;
+    gap: 0.5cm;
+    justify-content: center;
+
+}
+.g{
+    font-size: 15px;
+}
+.k{
+    font-size: 15px;
+    padding: 0.2cm;
+}
+.kit{
+    display: flex;
+    justify-content: center;
+    padding: 2cm;
+}
+.nav5{
+    display: flex;
+    justify-content: center;
+    gap: 0.3cm;
+    padding: 2.5cm;
+}
+.footer{
+    background-color:#DCDCDC;
+    height: 400px;
+    justify-content: center;
+}
+.mai{
+    position: absolute;
+    top: 4450px;
+    left: 5cm;
+}
+.mai1{
+    position: absolute;
+    top: 4450px;
+    left: 12cm;
+
+}
+.mai2{
+    position: absolute;
+    top: 4450px;
+    left: 18cm;
+
+}
+.pk{
+    
+    padding: 1cm;
+    
+}
+.j{
+    padding: 0.2cm;
+    
+}
+
